@@ -1,0 +1,1152 @@
+Archive member included because of file (symbol)
+
+C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(main.cpp.o)
+                              c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o (main)
+C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+                              C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(main.cpp.o) (_ZN10USBDevice_6attachEv)
+C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(wiring.c.o)
+                              C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(main.cpp.o) (init)
+C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(CDC.cpp.o)
+                              C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o) (Serial)
+C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+                              C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o) (_Z9HID_SetupR5Setup)
+C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(new.cpp.o)
+                              C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(CDC.cpp.o) (__cxa_pure_virtual)
+C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+                              C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(CDC.cpp.o) (_ZN5Print5writeEPKhj)
+C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(malloc.c.o)
+                              C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(new.cpp.o) (malloc)
+C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(hooks.c.o)
+                              C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(wiring.c.o) (yield)
+c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_mulsi3.o)
+                              C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o) (__mulsi3)
+c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_udivmodsi4.o)
+                              C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o) (__udivmodsi4)
+c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_exit.o)
+                              c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o (exit)
+c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_copy_data.o)
+                              C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(main.cpp.o) (__do_copy_data)
+c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_clear_bss.o)
+                              C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(main.cpp.o) (__do_clear_bss)
+c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_ctors.o)
+                              C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o) (__do_global_ctors)
+c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_muluhisi3.o)
+                              c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_mulsi3.o) (__muluhisi3)
+c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_tablejump.o)
+                              c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_ctors.o) (__tablejump__)
+c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_umulhisi3.o)
+                              c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_muluhisi3.o) (__umulhisi3)
+c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                              C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o) (__subsf3)
+c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                              c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(addsf3.o) (__addsf3x)
+c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                              C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o) (__ltsf2)
+c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                              C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o) (__divsf3)
+c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                              c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(divsf3.o) (__divsf3x)
+c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+                              C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o) (__fixsfsi)
+c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o) (__fixunssfsi)
+c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                              C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o) (__floatunsisf)
+c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                              c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(cmpsf2.o) (__fp_cmp)
+c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_inf)
+c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_nan)
+c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscA)
+c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscB)
+c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(addsf3.o) (__fp_round)
+c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_split3)
+c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_zero)
+c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                              C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o) (__gtsf2)
+c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o) (__mulsf3)
+c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+                              C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o) (__unordsf2)
+
+Allocating common symbols
+Common symbol       size              file
+
+__brkval            0x2               C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(malloc.c.o)
+__flp               0x2               C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(malloc.c.o)
+
+Discarded input sections
+
+ .bss           0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+ .text          0x00000000        0x0 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(main.cpp.o)
+ .bss           0x00000000        0x0 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(main.cpp.o)
+ .text          0x00000000        0x0 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+ .bss           0x00000000        0x0 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+ .text._Z4RecvPVhh
+                0x00000000       0x1a C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+ .text._Z19USBGetConfigurationv
+                0x00000000        0x6 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+ .text._Z13USB_Availableh
+                0x00000000       0x12 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+ .text._Z13USB_SendSpaceh
+                0x00000000       0x24 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+ .text._Z11InitControli
+                0x00000000       0x16 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+ .text._ZN10USBDevice_C2Ev
+                0x00000000        0x2 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+ .text._ZN10USBDevice_C1Ev
+                0x00000000        0x2 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+ .text._ZN10USBDevice_6detachEv
+                0x00000000        0x2 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+ .text._ZN10USBDevice_10configuredEv
+                0x00000000        0xa C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+ .text._ZN10USBDevice_4pollEv
+                0x00000000        0x2 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+ .text._Z12USBConnectedv
+                0x00000000       0x22 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+ .text          0x00000000        0x0 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(wiring.c.o)
+ .bss           0x00000000        0x0 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(wiring.c.o)
+ .text.millis   0x00000000       0x1c C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(wiring.c.o)
+ .text.micros   0x00000000       0x4c C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(wiring.c.o)
+ .text.delayMicroseconds
+                0x00000000       0x14 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(wiring.c.o)
+ .text          0x00000000        0x0 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(CDC.cpp.o)
+ .bss           0x00000000        0x0 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(CDC.cpp.o)
+ .text._ZN7Serial_5beginEm
+                0x00000000        0x2 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(CDC.cpp.o)
+ .text._ZN7Serial_5beginEmh
+                0x00000000        0x2 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(CDC.cpp.o)
+ .text._ZN7Serial_3endEv
+                0x00000000        0x2 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(CDC.cpp.o)
+ .text._ZN7Serial_cvbEv
+                0x00000000       0x1c C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(CDC.cpp.o)
+ .data._serialPeek
+                0x00000000        0x2 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(CDC.cpp.o)
+ .rodata._ZTV6Stream
+                0x00000000       0x10 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(CDC.cpp.o)
+ .text          0x00000000        0x0 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+ .bss           0x00000000        0x0 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+ .text._ZN6Mouse_C2Ev
+                0x00000000        0x6 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+ .text._ZN6Mouse_C1Ev
+                0x00000000        0x6 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+ .text._ZN6Mouse_5beginEv
+                0x00000000        0x2 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+ .text._ZN6Mouse_3endEv
+                0x00000000        0x2 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+ .text._ZN6Mouse_9isPressedEh
+                0x00000000       0x1a C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+ .text._ZN9Keyboard_C2Ev
+                0x00000000       0x10 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+ .text._ZN9Keyboard_C1Ev
+                0x00000000       0x10 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+ .text._ZN9Keyboard_5beginEv
+                0x00000000        0x2 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+ .text._ZN9Keyboard_3endEv
+                0x00000000        0x2 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+ .text._ZN6Mouse_4moveEaaa
+                0x00000000       0x36 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+ .text._ZN6Mouse_7buttonsEh
+                0x00000000       0x18 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+ .text._ZN6Mouse_7releaseEh
+                0x00000000       0x10 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+ .text._ZN6Mouse_5pressEh
+                0x00000000       0x10 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+ .text._ZN6Mouse_5clickEh
+                0x00000000       0x2a C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+ .text          0x00000000        0x0 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(new.cpp.o)
+ .bss           0x00000000        0x0 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(new.cpp.o)
+ .text.__cxa_guard_acquire
+                0x00000000       0x14 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(new.cpp.o)
+ .text.__cxa_guard_release
+                0x00000000        0x8 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(new.cpp.o)
+ .text.__cxa_guard_abort
+                0x00000000        0x2 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(new.cpp.o)
+ .text.__cxa_pure_virtual
+                0x00000000        0x2 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(new.cpp.o)
+ .text._ZdaPv   0x00000000        0x6 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(new.cpp.o)
+ .text._ZdlPv   0x00000000        0x6 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(new.cpp.o)
+ .text._Znaj    0x00000000        0x6 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(new.cpp.o)
+ .text._Znwj    0x00000000        0x6 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(new.cpp.o)
+ .text          0x00000000        0x0 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+ .bss           0x00000000        0x0 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+ .text._ZN5Print5printEPK19__FlashStringHelper
+                0x00000000       0x46 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+ .text._ZN5Print5printERK6String
+                0x00000000       0x24 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+ .text._ZN5Print5printEc
+                0x00000000       0x10 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+ .text._ZN5Print5printERK9Printable
+                0x00000000       0x16 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+ .text._ZN5Print7printlnEv
+                0x00000000       0x40 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+ .text._ZN5Print7printlnEPK19__FlashStringHelper
+                0x00000000       0x28 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+ .text._ZN5Print7printlnERK6String
+                0x00000000       0x28 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+ .text._ZN5Print7printlnEc
+                0x00000000       0x30 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+ .text._ZN5Print7printlnERK9Printable
+                0x00000000       0x34 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+ .text._ZN5Print5writeEPKc
+                0x00000000       0x38 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+ .text._ZN5Print11printNumberEmh
+                0x00000000       0xc8 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+ .text._ZN5Print5printEmi
+                0x00000000       0x1e C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+ .text._ZN5Print7printlnEmi
+                0x00000000       0x28 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+ .text._ZN5Print5printEji
+                0x00000000       0x22 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+ .text._ZN5Print7printlnEji
+                0x00000000       0x3a C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+ .text._ZN5Print5printEhi
+                0x00000000       0x24 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+ .text._ZN5Print7printlnEhi
+                0x00000000       0x3c C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+ .text._ZN5Print5printEli
+                0x00000000       0x80 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+ .text._ZN5Print7printlnEli
+                0x00000000       0x28 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+ .text._ZN5Print5printEii
+                0x00000000       0x26 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+ .text._ZN5Print7printlnEii
+                0x00000000       0x3e C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+ .text._ZN5Print5printEPKc
+                0x00000000        0x6 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+ .text._ZN5Print10printFloatEdh
+                0x00000000      0x1c8 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+ .text._ZN5Print5printEdi
+                0x00000000        0x6 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+ .text._ZN5Print7printlnEdi
+                0x00000000       0x26 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+ .text._ZN5Print7printlnEPKc
+                0x00000000       0x26 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+ .rodata._ZTV5Print
+                0x00000000        0x8 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+ .text          0x00000000        0x0 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(malloc.c.o)
+ .bss           0x00000000        0x0 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(malloc.c.o)
+ .text.avr-libc
+                0x00000000      0x26a C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(malloc.c.o)
+ .data.__malloc_margin
+                0x00000000        0x2 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(malloc.c.o)
+ .data.__malloc_heap_start
+                0x00000000        0x2 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(malloc.c.o)
+ .data.__malloc_heap_end
+                0x00000000        0x2 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(malloc.c.o)
+ COMMON         0x00000000        0x4 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(malloc.c.o)
+ .text          0x00000000        0x0 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(hooks.c.o)
+ .bss           0x00000000        0x0 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(hooks.c.o)
+ .text          0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_mulsi3.o)
+ .bss           0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.mul
+                0x00000000       0x20 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc   0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_mulsi3.o)
+ .text          0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.div
+                0x00000000       0x44 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_ctors.o)
+ .bss           0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_ctors.o)
+ .text.libgcc   0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_ctors.o)
+ .text          0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_muluhisi3.o)
+ .bss           0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.mul
+                0x00000000       0x16 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_muluhisi3.o)
+ .text          0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_tablejump.o)
+ .bss           0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_tablejump.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_tablejump.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_tablejump.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_tablejump.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_tablejump.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_tablejump.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_tablejump.o)
+ .text          0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.mul
+                0x00000000       0x1e c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_umulhisi3.o)
+ .text          0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .bss           0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0xa c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text          0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .bss           0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xc0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text          0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .bss           0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0x8 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text          0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .bss           0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0x4 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text          0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .bss           0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xcc c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text          0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .bss           0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .text.avr-libc.fplib
+                0x00000000        0xa c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .text          0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text.avr-libc.fplib
+                0x00000000       0x58 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text.avr-libc.fplib
+                0x00000000       0x7a c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .bss           0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text.avr-libc.fplib
+                0x00000000       0x48 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text          0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text.avr-libc.fplib
+                0x00000000        0xc c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text.avr-libc.fplib
+                0x00000000        0x6 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text.avr-libc.fplib
+                0x00000000       0x22 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text          0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text.avr-libc.fplib
+                0x00000000       0x44 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .bss           0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0x8 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text          0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0x4 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xc2 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .bss           0x00000000        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0x8 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+START GROUP
+LOAD C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a
+END GROUP
+LOAD c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a
+LOAD c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a
+START GROUP
+LOAD c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a
+LOAD c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a
+LOAD c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libc.a
+END GROUP
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x119c
+ *(.vectors)
+ .vectors       0x00000000       0xac c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x000000ac                . = ALIGN (0x2)
+                0x000000ac                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000ac        0x0 linker stubs
+ *(.trampolines*)
+                0x000000ac                __trampolines_end = .
+ *(.progmem*)
+ .progmem.data  0x000000ac       0x49 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+                0x000000ac                STRING_LANGUAGE
+                0x000000b0                STRING_PRODUCT
+                0x000000c0                STRING_MANUFACTURER
+                0x000000cc                USB_DeviceDescriptor
+                0x000000de                USB_DeviceDescriptorA
+                0x000000f0                _initEndpoints
+ .progmem.data  0x000000f5       0x42 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(CDC.cpp.o)
+                0x000000f5                _cdcInterface
+ .progmem.data  0x00000137       0xfe C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+                0x00000137                _hidReportDescriptor
+                0x0000019c                _hidInterface
+                0x000001b5                _asciimap
+                0x00000236                . = ALIGN (0x2)
+ *fill*         0x00000235        0x1 
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000236                __ctors_start = .
+ *(.ctors)
+ .ctors         0x00000236        0x2 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+ .ctors         0x00000238        0x2 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(CDC.cpp.o)
+ .ctors         0x0000023a        0x2 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+                0x0000023c                __ctors_end = .
+                0x0000023c                __dtors_start = .
+ *(.dtors)
+                0x0000023c                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x0000023c        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+                0x0000023c                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000023c        0xc c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000248       0x16 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_copy_data.o)
+                0x00000248                __do_copy_data
+ .init4         0x0000025e       0x10 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_clear_bss.o)
+                0x0000025e                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x0000026e       0x16 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_ctors.o)
+                0x0000026e                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000284        0x8 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+ *(.init9)
+ *(.text)
+ .text          0x0000028c        0x4 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+                0x0000028c                __vector_38
+                0x0000028c                __vector_22
+                0x0000028c                __vector_28
+                0x0000028c                __vector_1
+                0x0000028c                __vector_32
+                0x0000028c                __vector_34
+                0x0000028c                __vector_24
+                0x0000028c                __vector_12
+                0x0000028c                __bad_interrupt
+                0x0000028c                __vector_6
+                0x0000028c                __vector_31
+                0x0000028c                __vector_35
+                0x0000028c                __vector_39
+                0x0000028c                __vector_3
+                0x0000028c                __vector_30
+                0x0000028c                __vector_25
+                0x0000028c                __vector_13
+                0x0000028c                __vector_17
+                0x0000028c                __vector_19
+                0x0000028c                __vector_7
+                0x0000028c                __vector_41
+                0x0000028c                __vector_27
+                0x0000028c                __vector_5
+                0x0000028c                __vector_33
+                0x0000028c                __vector_37
+                0x0000028c                __vector_4
+                0x0000028c                __vector_9
+                0x0000028c                __vector_2
+                0x0000028c                __vector_21
+                0x0000028c                __vector_15
+                0x0000028c                __vector_36
+                0x0000028c                __vector_29
+                0x0000028c                __vector_40
+                0x0000028c                __vector_8
+                0x0000028c                __vector_26
+                0x0000028c                __vector_14
+                0x0000028c                __vector_16
+                0x0000028c                __vector_18
+                0x0000028c                __vector_20
+                0x0000028c                __vector_42
+                0x00000290                . = ALIGN (0x2)
+ *(.text.*)
+ .text.main     0x00000290       0x26 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(main.cpp.o)
+                0x00000290                main
+ .text._Z8USB_RecvhPvi
+                0x000002b6       0x68 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+                0x000002b6                _Z8USB_RecvhPvi
+ .text._Z8USB_Recvh
+                0x0000031e       0x32 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+                0x0000031e                _Z8USB_Recvh
+ .text._Z15USB_SendControlhPKvi
+                0x00000350       0x88 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+                0x00000350                _Z15USB_SendControlhPKvi
+ .text._ZL24USB_SendStringDescriptorPKhh
+                0x000003d8      0x14a C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+ .text._Z15USB_RecvControlPvi
+                0x00000522       0x30 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+                0x00000522                _Z15USB_RecvControlPvi
+ .text._Z9USB_Flushh
+                0x00000552       0x14 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+                0x00000552                _Z9USB_Flushh
+ .text._GLOBAL__I_TxLEDPulse
+                0x00000566        0x2 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+ .text._ZN10USBDevice_6attachEv
+                0x00000568       0x3c C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+                0x00000568                _ZN10USBDevice_6attachEv
+ .text._Z8USB_SendhPKvi
+                0x000005a4      0x14a C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+                0x000005a4                _Z8USB_SendhPKvi
+ .text.__vector_10
+                0x000006ee       0xdc C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+                0x000006ee                __vector_10
+ .text._Z14SendInterfacesv
+                0x000007ca       0x32 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+                0x000007ca                _Z14SendInterfacesv
+ .text.__vector_11
+                0x000007fc      0x29c C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+                0x000007fc                __vector_11
+ .text.__vector_23
+                0x00000a98       0x90 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(wiring.c.o)
+                0x00000a98                __vector_23
+ .text.init     0x00000b28       0xac C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(wiring.c.o)
+                0x00000b28                init
+ .text.delay    0x00000bd4       0xd0 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(wiring.c.o)
+                0x00000bd4                delay
+ .text._ZN7Serial_9availableEv
+                0x00000ca4       0x18 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(CDC.cpp.o)
+                0x00000ca4                _ZN7Serial_9availableEv
+ .text._ZN7Serial_4peekEv
+                0x00000cbc       0x20 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(CDC.cpp.o)
+                0x00000cbc                _ZN7Serial_4peekEv
+ .text._ZN7Serial_4readEv
+                0x00000cdc       0x3c C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(CDC.cpp.o)
+                0x00000cdc                _ZN7Serial_4readEv
+ .text._GLOBAL__I__cdcInterface
+                0x00000d18       0x2e C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(CDC.cpp.o)
+ .text._ZN7Serial_5writeEh
+                0x00000d46       0x50 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(CDC.cpp.o)
+                0x00000d46                _ZN7Serial_5writeEh
+ .text._ZN7Serial_5flushEv
+                0x00000d96        0x8 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(CDC.cpp.o)
+                0x00000d96                _ZN7Serial_5flushEv
+ .text._ZN7Serial_6acceptEv
+                0x00000d9e       0x4e C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(CDC.cpp.o)
+                0x00000d9e                _ZN7Serial_6acceptEv
+ .text._Z16CDC_GetInterfacePh
+                0x00000dec       0x18 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(CDC.cpp.o)
+                0x00000dec                _Z16CDC_GetInterfacePh
+ .text._Z9CDC_SetupR5Setup
+                0x00000e04       0xac C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(CDC.cpp.o)
+                0x00000e04                _Z9CDC_SetupR5Setup
+ .text._Z9HID_SetupR5Setup
+                0x00000eb0       0x38 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+                0x00000eb0                _Z9HID_SetupR5Setup
+ .text._ZN9Keyboard_5writeEh
+                0x00000ee8       0x3c C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+                0x00000ee8                _ZN9Keyboard_5writeEh
+ .text._GLOBAL__I_Mouse
+                0x00000f24       0x1a C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+ .text._Z14HID_SendReporthPKvi
+                0x00000f3e       0x42 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+                0x00000f3e                _Z14HID_SendReporthPKvi
+ .text._ZN9Keyboard_10sendReportEP9KeyReport
+                0x00000f80        0xc C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+                0x00000f80                _ZN9Keyboard_10sendReportEP9KeyReport
+ .text._ZN9Keyboard_10releaseAllEv
+                0x00000f8c       0x1a C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+                0x00000f8c                _ZN9Keyboard_10releaseAllEv
+ .text._ZN9Keyboard_7releaseEh
+                0x00000fa6       0x86 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+                0x00000fa6                _ZN9Keyboard_7releaseEh
+ .text._ZN9Keyboard_5pressEh
+                0x0000102c       0xe2 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+                0x0000102c                _ZN9Keyboard_5pressEh
+ .text._Z17HID_GetDescriptori
+                0x0000110e       0x10 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+                0x0000110e                _Z17HID_GetDescriptori
+ .text._Z16HID_GetInterfacePh
+                0x0000111e       0x18 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+                0x0000111e                _Z16HID_GetInterfacePh
+ .text._ZN5Print5writeEPKhj
+                0x00001136       0x54 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+                0x00001136                _ZN5Print5writeEPKhj
+ .text.__empty  0x0000118a        0x2 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(hooks.c.o)
+                0x0000118a                yield
+ .text.libgcc   0x0000118c        0xc c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_tablejump.o)
+                0x0000118c                __tablejump2__
+                0x00001190                __tablejump__
+                0x00001198                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00001198        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_exit.o)
+                0x00001198                _exit
+                0x00001198                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00001198        0x4 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000119c                _etext = .
+
+.data           0x00800100       0x38 load address 0x0000119c
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5/crtm32u4.o
+ .data          0x00800100        0x0 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(main.cpp.o)
+ .data          0x00800100        0x0 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+ .data          0x00800100        0x0 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(wiring.c.o)
+ .data          0x00800100        0x0 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(CDC.cpp.o)
+ .data          0x00800100        0x0 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+ .data          0x00800100        0x0 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(new.cpp.o)
+ .data          0x00800100        0xe C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+ .data          0x0080010e        0x0 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(malloc.c.o)
+ .data          0x0080010e        0x0 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(hooks.c.o)
+ .data          0x0080010e        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_mulsi3.o)
+ .data          0x0080010e        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x0080010e        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_exit.o)
+ .data          0x0080010e        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_copy_data.o)
+ .data          0x0080010e        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_clear_bss.o)
+ .data          0x0080010e        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_ctors.o)
+ .data          0x0080010e        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_muluhisi3.o)
+ .data          0x0080010e        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_tablejump.o)
+ .data          0x0080010e        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr5\libgcc.a(_umulhisi3.o)
+ .data          0x0080010e        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .data          0x0080010e        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .data          0x0080010e        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .data          0x0080010e        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .data          0x0080010e        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .data          0x0080010e        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .data          0x0080010e        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x0080010e        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .data          0x0080010e        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .data          0x0080010e        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x0080010e        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x0080010e        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x0080010e        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x0080010e        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .data          0x0080010e        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x0080010e        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x0080010e        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .data          0x0080010e        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x0080010e        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x0080010e        0x0 c:/programa-ssd/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ *(.data*)
+ .data._ZL12_usbLineInfo
+                0x0080010e        0x8 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(CDC.cpp.o)
+ .data._hid_protocol
+                0x00800116        0x1 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+                0x00800116                _hid_protocol
+ .data._hid_idle
+                0x00800117        0x1 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+                0x00800117                _hid_idle
+ *(.rodata)
+ *(.rodata*)
+ .rodata._ZTV7Serial_
+                0x00800118       0x12 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(CDC.cpp.o)
+                0x00800118                _ZTV7Serial_
+ .rodata._ZTV9Keyboard_
+                0x0080012a        0xe C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+                0x0080012a                _ZTV9Keyboard_
+ *(.gnu.linkonce.d*)
+                0x00800138                . = ALIGN (0x2)
+                0x00800138                _edata = .
+                0x00800138                PROVIDE (__data_end, .)
+
+.bss            0x00800138       0x6d
+                0x00800138                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.TxLEDPulse
+                0x00800138        0x1 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+                0x00800138                TxLEDPulse
+ .bss.RxLEDPulse
+                0x00800139        0x1 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+                0x00800139                RxLEDPulse
+ .bss._usbConfiguration
+                0x0080013a        0x1 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+                0x0080013a                _usbConfiguration
+ .bss._cmark    0x0080013b        0x2 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+                0x0080013b                _cmark
+ .bss._cend     0x0080013d        0x2 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+                0x0080013d                _cend
+ .bss._cdcComposite
+                0x0080013f        0x1 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+                0x0080013f                _cdcComposite
+ .bss.USBDevice
+                0x00800140        0x1 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+                0x00800140                USBDevice
+ .bss.timer0_overflow_count
+                0x00800141        0x4 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(wiring.c.o)
+                0x00800141                timer0_overflow_count
+ .bss.timer0_millis
+                0x00800145        0x4 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(wiring.c.o)
+                0x00800145                timer0_millis
+ .bss.timer0_fract
+                0x00800149        0x1 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(wiring.c.o)
+ .bss.Serial    0x0080014a       0x4e C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(CDC.cpp.o)
+                0x0080014a                Serial
+ .bss.Mouse     0x00800198        0x1 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+                0x00800198                Mouse
+ .bss.Keyboard  0x00800199        0xc C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+                0x00800199                Keyboard
+ *(COMMON)
+                0x008001a5                PROVIDE (__bss_end, .)
+                0x0000119c                __data_load_start = LOADADDR (.data)
+                0x000011d4                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008001a5        0x0
+                0x008001a5                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x008001a5                PROVIDE (__noinit_end, .)
+                0x008001a5                _end = .
+                0x008001a5                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x420
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(main.cpp.o)
+ .debug_aranges
+                0x00000020       0xd0 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+ .debug_aranges
+                0x000000f0       0x48 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(wiring.c.o)
+ .debug_aranges
+                0x00000138       0x80 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(CDC.cpp.o)
+ .debug_aranges
+                0x000001b8       0xd8 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+ .debug_aranges
+                0x00000290       0x58 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(new.cpp.o)
+ .debug_aranges
+                0x000002e8       0xf0 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+ .debug_aranges
+                0x000003d8       0x28 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(malloc.c.o)
+ .debug_aranges
+                0x00000400       0x20 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(hooks.c.o)
+
+.debug_pubnames
+                0x00000000      0x9f1
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x1b C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(main.cpp.o)
+ .debug_pubnames
+                0x0000001b      0x28a C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+ .debug_pubnames
+                0x000002a5       0x8d C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(wiring.c.o)
+ .debug_pubnames
+                0x00000332      0x129 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(CDC.cpp.o)
+ .debug_pubnames
+                0x0000045b      0x258 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+ .debug_pubnames
+                0x000006b3       0xbf C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(new.cpp.o)
+ .debug_pubnames
+                0x00000772      0x200 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+ .debug_pubnames
+                0x00000972       0x7f C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(malloc.c.o)
+
+.debug_info     0x00000000     0x66e9
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x20b C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(main.cpp.o)
+ .debug_info    0x0000020b     0x171a C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+ .debug_info    0x00001925      0x33b C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(wiring.c.o)
+ .debug_info    0x00001c60     0x1b75 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(CDC.cpp.o)
+ .debug_info    0x000037d5      0xde4 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+ .debug_info    0x000045b9      0x195 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(new.cpp.o)
+ .debug_info    0x0000474e     0x1d3a C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+ .debug_info    0x00006488      0x229 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(malloc.c.o)
+ .debug_info    0x000066b1       0x38 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(hooks.c.o)
+
+.debug_abbrev   0x00000000     0x14b6
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0xf9 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(main.cpp.o)
+ .debug_abbrev  0x000000f9      0x4d8 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+ .debug_abbrev  0x000005d1      0x17d C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(wiring.c.o)
+ .debug_abbrev  0x0000074e      0x3b0 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(CDC.cpp.o)
+ .debug_abbrev  0x00000afe      0x46c C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+ .debug_abbrev  0x00000f6a       0xf7 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(new.cpp.o)
+ .debug_abbrev  0x00001061      0x323 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+ .debug_abbrev  0x00001384      0x10d C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(malloc.c.o)
+ .debug_abbrev  0x00001491       0x25 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(hooks.c.o)
+
+.debug_line     0x00000000     0x2d3b
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x1b3 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(main.cpp.o)
+ .debug_line    0x000001b3      0xdb6 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+ .debug_line    0x00000f69      0x3e2 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(wiring.c.o)
+ .debug_line    0x0000134b      0x4f0 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(CDC.cpp.o)
+ .debug_line    0x0000183b      0x73c C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+ .debug_line    0x00001f77      0x213 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(new.cpp.o)
+ .debug_line    0x0000218a      0x7d5 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+ .debug_line    0x0000295f      0x33b C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(malloc.c.o)
+ .debug_line    0x00002c9a       0xa1 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(hooks.c.o)
+
+.debug_frame    0x00000000      0x720
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x20 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(main.cpp.o)
+ .debug_frame   0x00000020      0x180 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+ .debug_frame   0x000001a0       0x70 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(wiring.c.o)
+ .debug_frame   0x00000210       0xe0 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(CDC.cpp.o)
+ .debug_frame   0x000002f0      0x190 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+ .debug_frame   0x00000480       0x90 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(new.cpp.o)
+ .debug_frame   0x00000510      0x1c0 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+ .debug_frame   0x000006d0       0x30 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(malloc.c.o)
+ .debug_frame   0x00000700       0x20 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(hooks.c.o)
+
+.debug_str      0x00000000     0x1f6d
+ *(.debug_str)
+ .debug_str     0x00000000      0x143 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(main.cpp.o)
+                                0x181 (size before relaxing)
+ .debug_str     0x00000143      0x57e C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+                                0x6f3 (size before relaxing)
+ .debug_str     0x000006c1       0xb9 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(wiring.c.o)
+                                0x14d (size before relaxing)
+ .debug_str     0x0000077a      0xefc C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(CDC.cpp.o)
+                               0x10cd (size before relaxing)
+ .debug_str     0x00001676      0x330 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+                                0x59b (size before relaxing)
+ .debug_str     0x000019a6       0xf2 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(new.cpp.o)
+                                0x130 (size before relaxing)
+ .debug_str     0x00001a98      0x3ad C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+                                0xd4e (size before relaxing)
+ .debug_str     0x00001e45       0xdd C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(malloc.c.o)
+                                0x15c (size before relaxing)
+ .debug_str     0x00001f22       0x4b C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(hooks.c.o)
+                                 0x57 (size before relaxing)
+
+.debug_loc      0x00000000     0x23a9
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x8b7 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+ .debug_loc     0x000008b7      0x19b C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(wiring.c.o)
+ .debug_loc     0x00000a52      0x26c C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(CDC.cpp.o)
+ .debug_loc     0x00000cbe      0x57b C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+ .debug_loc     0x00001239       0xb0 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(new.cpp.o)
+ .debug_loc     0x000012e9      0xd68 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+ .debug_loc     0x00002051      0x358 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(malloc.c.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x4c8
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x18 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(main.cpp.o)
+ .debug_ranges  0x00000018      0x1b8 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(USBCore.cpp.o)
+ .debug_ranges  0x000001d0       0x40 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(wiring.c.o)
+ .debug_ranges  0x00000210       0x78 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(CDC.cpp.o)
+ .debug_ranges  0x00000288       0xd0 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(HID.cpp.o)
+ .debug_ranges  0x00000358       0x50 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(new.cpp.o)
+ .debug_ranges  0x000003a8       0xe8 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(Print.cpp.o)
+ .debug_ranges  0x00000490       0x20 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(malloc.c.o)
+ .debug_ranges  0x000004b0       0x18 C:\gDrive\Atmel\arduinoCore\libcoreEsplora.a(hooks.c.o)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(TFT_Temp_2.elf elf32-avr)
+LOAD linker stubs
